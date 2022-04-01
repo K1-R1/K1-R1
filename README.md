@@ -1,9 +1,6 @@
 ## Hi there 👋, I'm K1-R1
  
- - ### Smart contract developer
- - ### Algorithmic trader
- - ### Data analyst
-
+### Smart contract developer | Algorithmic trader | Data analyst
 #### Always seeking new oppurtunities in web3
 
 ### Contact me at:
