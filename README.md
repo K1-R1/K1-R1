@@ -1,4 +1,4 @@
- ## K1-R1
+## Hi there 👋, I'm K1-R1
  
  - ### Smart contract developer
  - ### Algorithmic trader
